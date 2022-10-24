@@ -1,0 +1,25 @@
+
+.fb{
+border:1px solid black;
+margin:500px;
+margin-top: 20px;
+width:300px;
+height:400px;
+background-color:gray;
+border-radius:20px;
+box-shadow:10px 10px lightblack;
+}
+#fb1{
+border-radius:20px;
+border-color:black;
+box-shadow: 0px 1px 3px black;
+background-color:seashell;
+}
+fb1.input{
+	box-sizing: 20px;
+	
+}
+h2{
+	color: black;
+}
+			
